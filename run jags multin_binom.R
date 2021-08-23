@@ -1,6 +1,4 @@
 
-set.seed(123)
-
 library(R2jags)
 library(tictoc)
 library(MCMCvis)
